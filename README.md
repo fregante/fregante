@@ -17,7 +17,7 @@
 * [object-fit-images](https://github.com/bfred-it/object-fit-images) - 🗻 Polyfill object-fit and object-position on images on IE9, IE10, IE11, Edge, Safari, ...
 * [supports-webp](https://github.com/bfred-it/supports-webp) - Instantly detect support for WEBP images in the browser in 0.2KB
 * [image-promise](https://github.com/bfred-it/image-promise) - 🌄 Load an image and return a promise in the browser, in 0.3KB, no dependencies
-* [get-media-size](https://github.com/bfred-it/get-media-size) - Get the real size of an (already-loaded) <img>, <video>, or <canvas> in the browser.
+* [get-media-size](https://github.com/bfred-it/get-media-size) - Get the real size of an (already-loaded) `<img>`, `<video>`, or `<canvas>` in the browser.
 * [get-canvas-pixel-color](https://github.com/bfred-it/get-canvas-pixel-color) - Micro module to get the color of a single pixel on a HTML canvas
 * [animate-prop](https://github.com/bfred-it/animate-prop) - Single, dependency-free function to tween a property. Use that on canvas or anywhere else.
 
