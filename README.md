@@ -10,7 +10,7 @@
 
 ### Browser-only modules
 
-#### Media-related modules
+#### Media modules
 
 * [iphone-inline-video](https://github.com/bfred-it/iphone-inline-video) - 📱 Make videos playable inline on the iPhone (prevents automatic fullscreen)
 * [video-canvas](https://github.com/bfred-it/video-canvas) - Paint video on canvas. Extra light.
@@ -21,21 +21,28 @@
 * [get-canvas-pixel-color](https://github.com/bfred-it/get-canvas-pixel-color) - Micro module to get the color of a single pixel on a HTML canvas
 * [animate-prop](https://github.com/bfred-it/animate-prop) - Single, dependency-free function to tween a property. Use that on canvas or anywhere else.
 
-#### DOM-related modules
+#### DOM modules
 
 * [on-off](https://github.com/bfred-it/on-off) - Add/remove DOM events
+* [one-event](https://github.com/bfred-it/one-event) - Micro module to add an event listener to be executed only once
+* [select-dom](https://github.com/bfred-it/select-dom) - Slim alternative to document.querySelector/All
 * [get-scroll](https://github.com/bfred-it/get-scroll) - Micro module to get the scroll position (top or left) in the browser
 * [visibility-change-ponyfill](https://github.com/bfred-it/visibility-change-ponyfill) - A more reliable visibilitychange event that works in more mobile WebViews
 * [gsap-then](https://github.com/bfred-it/gsap-then) - Make every GSAP Tween a promise. tl.then(doSomething)
 * [tweenlite-stagger](https://github.com/bfred-it/tweenlite-stagger) - Avoid TweenMax. Use TweenLite.stagger with the help of TimelineLite
-* [select-dom](https://github.com/bfred-it/select-dom) - Slim alternative to document.querySelector/All
-* [one-event](https://github.com/bfred-it/one-event) - Micro module to add an event listener to be executed only once
-* [console-class](https://github.com/bfred-it/console-class) - Get yourself a light, togglable, namespaced and colored console.log in the browser
+
+#### Network modules
+
 * [nano-fetch](https://github.com/bfred-it/nano-fetch) - A tiny window.fetch-like promise-based AJAX implementation.
-* [facebook-handshake](https://github.com/bfred-it/facebook-handshake) - Seamlessly log into Facebook silently, with a popup or with a redirect on unsupported browsers (Chrome/iOS)
-* [prevent-popstate-scroll](https://github.com/bfred-it/prevent-popstate-scroll) - Prevent the scroll restoration caused by the popstate event or back/forward buttons.* [facebook-sdk-promise](https://github.com/bfred-it/facebook-sdk-promise) - Load Facebook's API and return a Promise. If it's already loading it won't try to load it again.
 * [tiny-load-script](https://github.com/bfred-it/tiny-load-script) - Load a javascript file and forget about it
+* [facebook-sdk-promise](https://github.com/bfred-it/facebook-sdk-promise) - Load Facebook's API and return a Promise. If it's already loading it won't try to load it again.
+* [facebook-handshake](https://github.com/bfred-it/facebook-handshake) - Seamlessly log into Facebook silently, with a popup or with a redirect on unsupported browsers (Chrome/iOS)
+
+#### Utility modules
+
+* [prevent-popstate-scroll](https://github.com/bfred-it/prevent-popstate-scroll) - Prevent the scroll restoration caused by the popstate event or back/forward buttons.
 * [scroll-restoration-polyfill](https://github.com/bfred-it/scroll-restoration-polyfill) - Polyfill for the "History API: Scroll Restoration"
+* [console-class](https://github.com/bfred-it/console-class) - Get yourself a light, togglable, namespaced and colored console.log in the browser
 
 ### Node-only modules
 
