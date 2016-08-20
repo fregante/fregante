@@ -52,6 +52,7 @@
 
 ## Browser extensions
 
+* [GhostText](https://github.com/GhostText/GhostText) - :ghost: Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 * [GitHub-Grouped-News](https://github.com/bfred-it/GitHub-Grouped-News) - Group news feed by repo
 * [sticky-pinned-tabs](https://github.com/bfred-it/sticky-pinned-tabs) - Chrome Extension: When in a pinned tab, external links open in a new tab
 * [gstocks](https://github.com/bfred-it/gstocks) - Chrome extension + bookmarklet
