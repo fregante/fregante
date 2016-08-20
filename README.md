@@ -2,15 +2,9 @@
 
 > My repos, indexed
 
-## Javascript modules
+## Browser-only javascript modules
 
-* [intrinsic-scale](https://github.com/bfred-it/intrinsic-scale) - Replicate `background-size: cover/contain` for canvas/CSS/Node/… on any type of media.
-* [poor-mans-symbol](https://github.com/bfred-it/poor-mans-symbol) - Poor man's Symbol implementation, not compliant. Uses window.Symbol if present
-* [random-encoder](https://github.com/bfred-it/random-encoder) - Lightweight way to generate multiple, random, reversible "hashes" or encoding
-
-### Browser-only modules
-
-#### Media modules
+### Media modules
 
 * [iphone-inline-video](https://github.com/bfred-it/iphone-inline-video) - 📱 Make videos playable inline on the iPhone (prevents automatic fullscreen)
 * [video-canvas](https://github.com/bfred-it/video-canvas) - Paint video on canvas. Extra light.
@@ -21,7 +15,7 @@
 * [get-canvas-pixel-color](https://github.com/bfred-it/get-canvas-pixel-color) - Micro module to get the color of a single pixel on a HTML canvas
 * [animate-prop](https://github.com/bfred-it/animate-prop) - Single, dependency-free function to tween a property. Use that on canvas or anywhere else.
 
-#### DOM modules
+### DOM modules
 
 * [on-off](https://github.com/bfred-it/on-off) - Add/remove DOM events
 * [one-event](https://github.com/bfred-it/one-event) - Micro module to add an event listener to be executed only once
@@ -31,24 +25,30 @@
 * [gsap-then](https://github.com/bfred-it/gsap-then) - Make every GSAP Tween a promise. tl.then(doSomething)
 * [tweenlite-stagger](https://github.com/bfred-it/tweenlite-stagger) - Avoid TweenMax. Use TweenLite.stagger with the help of TimelineLite
 
-#### Network modules
+### Network modules
 
 * [nano-fetch](https://github.com/bfred-it/nano-fetch) - A tiny window.fetch-like promise-based AJAX implementation.
 * [tiny-load-script](https://github.com/bfred-it/tiny-load-script) - Load a javascript file and forget about it
 * [facebook-sdk-promise](https://github.com/bfred-it/facebook-sdk-promise) - Load Facebook's API and return a Promise. If it's already loading it won't try to load it again.
 * [facebook-handshake](https://github.com/bfred-it/facebook-handshake) - Seamlessly log into Facebook silently, with a popup or with a redirect on unsupported browsers (Chrome/iOS)
 
-#### Utility modules
+### Utility modules
 
 * [prevent-popstate-scroll](https://github.com/bfred-it/prevent-popstate-scroll) - Prevent the scroll restoration caused by the popstate event or back/forward buttons.
 * [scroll-restoration-polyfill](https://github.com/bfred-it/scroll-restoration-polyfill) - Polyfill for the "History API: Scroll Restoration"
 * [console-class](https://github.com/bfred-it/console-class) - Get yourself a light, togglable, namespaced and colored console.log in the browser
 
-### Node-only modules
+## Node-only modules
 
 * [tumblr-upload](https://github.com/bfred-it/tumblr-upload) - 🚡 Upload your Tumblr theme via node or CLI
 * [bin-dir](https://github.com/bfred-it/bin-dir) - Find or open the folder of a global command (installed via npm or not)
 * [npm-bundler](https://github.com/bfred-it/npm-bundler) - Opinionated ES6 library bundler based on rollup-babel-lib-bundler. For my own modules, but maybe you can find it useful too.
+
+## Node and browser modules
+
+* [intrinsic-scale](https://github.com/bfred-it/intrinsic-scale) - Replicate `background-size: cover/contain` for canvas/CSS/Node/… on any type of media.
+* [poor-mans-symbol](https://github.com/bfred-it/poor-mans-symbol) - Poor man's Symbol implementation, not compliant. Uses window.Symbol if present
+* [random-encoder](https://github.com/bfred-it/random-encoder) - Lightweight way to generate multiple, random, reversible "hashes" or encoding
 
 ## Browser extensions
 
@@ -58,10 +58,9 @@
 * [gstocks](https://github.com/bfred-it/gstocks) - Chrome extension + bookmarklet
 * [browser-player](https://github.com/bfred-it/browser-player) - 🔈 Chrome extension: pause other tabs when you play something
 
-
 ## Web tools
 
-Unpolished-but-working
+Unpolished and undocumented, though
 
 * [Sapere.it-Mobile](https://github.com/bfred-it/Sapere.it-Mobile) - Italian Dictionary
 * [HTML-Slayer](https://github.com/bfred-it/HTML-Slayer) - Trim images/layers and position them in HTML+CSS automatically
@@ -69,8 +68,8 @@ Unpolished-but-working
 
 ## Extras
 
-* [github-desktop-open-in-sublime-text](https://github.com/bfred-it/github-desktop-open-in-sublime-text) - In GitHub Desktop on Mac, replace "Open in Atom" with Sublime Text
 * [Awesome-WebExtensions](https://github.com/bfred-it/Awesome-WebExtensions) - A curated list of awesome resources for Web Extensions development
+* [github-desktop-open-in-sublime-text](https://github.com/bfred-it/github-desktop-open-in-sublime-text) - In GitHub Desktop on Mac, replace "Open in Atom" with Sublime Text
 * [rollup-config-es6-browser](https://github.com/bfred-it/rollup-config-es6-browser)
 * [rollup-config-buble](https://github.com/bfred-it/rollup-config-buble)
 
