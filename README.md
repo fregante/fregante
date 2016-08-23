@@ -37,12 +37,14 @@
 * [prevent-popstate-scroll](https://github.com/bfred-it/prevent-popstate-scroll) - Prevent the scroll restoration caused by the popstate event or back/forward buttons.
 * [scroll-restoration-polyfill](https://github.com/bfred-it/scroll-restoration-polyfill) - Polyfill for the "History API: Scroll Restoration"
 * [console-class](https://github.com/bfred-it/console-class) - Get yourself a light, togglable, namespaced and colored console.log in the browser
+* [bfred-it/webext-inject-on-install](http://ift.tt/2bz1QEA) - Automatically add content scripts to existing tabs when your extension is installed. Chrome + Firefox
 
 ## Node-only modules
 
 * [tumblr-upload](https://github.com/bfred-it/tumblr-upload) - 🚡 Upload your Tumblr theme via node or CLI
 * [bin-dir](https://github.com/bfred-it/bin-dir) - Find or open the folder of a global command (installed via npm or not)
 * [npm-bundler](https://github.com/bfred-it/npm-bundler) - Opinionated ES6 library bundler based on rollup-babel-lib-bundler. For my own modules, but maybe you can find it useful too.
+* [bfred-it/rollup-config-webext](http://ift.tt/2bBVW73) - Suggested configuration to bundle files in browser extensions.
 
 ## Node and browser modules
 
