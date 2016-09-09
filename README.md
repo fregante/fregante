@@ -51,6 +51,7 @@
 * [intrinsic-scale](https://github.com/bfred-it/intrinsic-scale) - Replicate `background-size: cover/contain` for canvas/CSS/Node/… on any type of media.
 * [poor-mans-symbol](https://github.com/bfred-it/poor-mans-symbol) - Poor man's Symbol implementation, not compliant. Uses window.Symbol if present
 * [random-encoder](https://github.com/bfred-it/random-encoder) - Lightweight way to generate multiple, random, reversible "hashes" or encoding
+* [pet-names](https://github.com/bfred-it/pet-names) - &#128145; Get popular pet names (for girlfriends and boyfriends)
 
 ## Browser extensions
 
