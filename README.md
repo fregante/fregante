@@ -23,7 +23,6 @@
 * [get-scroll](https://github.com/bfred-it/get-scroll) - Micro module to get the scroll position (top or left) in the browser
 * [visibility-change-ponyfill](https://github.com/bfred-it/visibility-change-ponyfill) - A more reliable visibilitychange event that works in more mobile WebViews
 * [gsap-then](https://github.com/bfred-it/gsap-then) - Make every GSAP Tween a promise. tl.then(doSomething)
-* [tweenlite-stagger](https://github.com/bfred-it/tweenlite-stagger) - Avoid TweenMax. Use TweenLite.stagger with the help of TimelineLite
 
 ### Network modules
 
