@@ -17,4 +17,4 @@ This is mostly automated.
   ```
 
 4. Create README.md file with the contents of your clipboard
-5. Setup this [IFTTT recipe](https://ifttt.com/recipes/455946-remind-me-to-add-my-new-repo-to-my-github-index) to automatically remind you to add new repos by creating new issues.
+5. Setup this [GitHub bot](https://github.com/bfred-it/index-github-bot) on [zeit/now](https://zeit.co/now) to automatically remind you to add new repos by creating new issues.
