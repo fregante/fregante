@@ -36,8 +36,6 @@
 * [prevent-popstate-scroll](https://github.com/bfred-it/prevent-popstate-scroll) - Prevent the scroll restoration caused by the popstate event or back/forward buttons.
 * [scroll-restoration-polyfill](https://github.com/bfred-it/scroll-restoration-polyfill) - Polyfill for the "History API: Scroll Restoration"
 * [console-class](https://github.com/bfred-it/console-class) - Get yourself a light, togglable, namespaced and colored console.log in the browser
-* [webext-inject-on-install](https://github.com/bfred-it/webext-inject-on-install) - Automatically add content scripts to existing tabs when your extension is installed. Chrome + Firefox
-* [webext-options-sync](https://github.com/bfred-it/webext-options-sync) - Helps you manage and autosave your extension's options.
 
 ## Node-only modules
 
@@ -52,6 +50,13 @@
 * [poor-mans-symbol](https://github.com/bfred-it/poor-mans-symbol) - Poor man's Symbol implementation, not compliant. Uses window.Symbol if present
 * [random-encoder](https://github.com/bfred-it/random-encoder) - Lightweight way to generate multiple, random, reversible "hashes" or encoding
 * [pet-names](https://github.com/bfred-it/pet-names) - &#128145; Get popular pet names (for girlfriends and boyfriends)
+
+## Modules for browser extensions
+
+* [webext-options-sync](https://github.com/bfred-it/webext-options-sync) - Helps you manage and autosave your extension's options.
+* [webext-dynamic-content-scripts](https://github.com/bfred-it/webext-dynamic-content-scripts) - Automatically inject your `content_scripts` on custom domains.
+* [webext-content-script-ping](https://github.com/bfred-it/webext-content-script-ping) - One-file interface to detect whether your content script have loaded.
+* [webext-inject-on-install](https://github.com/bfred-it/webext-inject-on-install) - Automatically add content scripts to existing tabs when your extension is installed.
 
 ## Browser extensions
 
