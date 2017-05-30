@@ -61,7 +61,9 @@
 ## Browser extensions
 
 * [GhostText](https://github.com/GhostText/GhostText) - :ghost: Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
-* [GitHub-Grouped-News](https://github.com/bfred-it/GitHub-Grouped-News) - Group news feed by repo
+* [npmhub](https://github.com/npmhub/npmhub/) - :mag_right: A browser extension for exploring npm dependencies on GitHub repos.
+* [GitHub Clean Feed](https://github.com/bfred-it/github-clean-feed) - Group GitHub news feed by repo.
+* [One Click Extension Manager](https://github.com/HangYang/ext_manager) - Simple Chrome extension to manage your Chrome extensions.
 * [sticky-pinned-tabs](https://github.com/bfred-it/sticky-pinned-tabs) - Chrome Extension: When in a pinned tab, external links open in a new tab
 * [gstocks](https://github.com/bfred-it/gstocks) - Chrome extension + bookmarklet
 * [browser-player](https://github.com/bfred-it/browser-player) - 🔈 Chrome extension: pause other tabs when you play something
@@ -70,6 +72,8 @@
 
 Unpolished and undocumented, though
 
+* [regallery.ga](https://github.com/bfred-it/regallery.ga) - Paste a Reddit post URL, get a gallery of each comment's image. Perfect for /r/photoshopbattles.
+* [index-github-bot](https://github.com/bfred-it/index-github-bot) - Bot that reminds me to add my new repos to my index.
 * [Sapere.it-Mobile](https://github.com/bfred-it/Sapere.it-Mobile) - Italian Dictionary
 * [HTML-Slayer](https://github.com/bfred-it/HTML-Slayer) - Trim images/layers and position them in HTML+CSS automatically
 * [art-cropper](https://github.com/bfred-it/art-cropper) - Drop images, export art-directed cropped images
