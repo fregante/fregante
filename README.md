@@ -17,10 +17,12 @@
 
 ### DOM modules
 
+* [select-dom](https://github.com/bfred-it/select-dom) - Slim alternative to document.querySelector/All
 * [on-off](https://github.com/bfred-it/on-off) - Add/remove DOM events
 * [one-event](https://github.com/bfred-it/one-event) - Micro module to add an event listener to be executed only once
-* [select-dom](https://github.com/bfred-it/select-dom) - Slim alternative to document.querySelector/All
 * [get-scroll](https://github.com/bfred-it/get-scroll) - Micro module to get the scroll position (top or left) in the browser
+* [get-elements-array](https://github.com/bfred-it/get-elements-array) - Array of elements from selector, Array-like objects and single elements.
+* [filter-altered-clicks](https://github.com/bfred-it/filter-altered-clicks) - Filter alt-click, ctrl-click, shift-click, middle click, ...
 * [visibility-change-ponyfill](https://github.com/bfred-it/visibility-change-ponyfill) - A more reliable visibilitychange event that works in more mobile WebViews
 * [gsap-then](https://github.com/bfred-it/gsap-then) - Make every GSAP Tween a promise. tl.then(doSomething)
 
@@ -36,6 +38,12 @@
 * [prevent-popstate-scroll](https://github.com/bfred-it/prevent-popstate-scroll) - Prevent the scroll restoration caused by the popstate event or back/forward buttons.
 * [scroll-restoration-polyfill](https://github.com/bfred-it/scroll-restoration-polyfill) - Polyfill for the "History API: Scroll Restoration"
 * [console-class](https://github.com/bfred-it/console-class) - Get yourself a light, togglable, namespaced and colored console.log in the browser
+* [intervalometer](https://github.com/bfred-it/intervalometer) - Call a function at every frame or every X ms. With start/stop.
+* [intrinsic-scale](https://github.com/bfred-it/intrinsic-scale) - Replicate `background-size: cover/contain` for canvas/CSS/Node/… on any type of media.
+* [poor-mans-symbol](https://github.com/bfred-it/poor-mans-symbol) - Poor man's Symbol implementation, not compliant. Uses window.Symbol if present
+* [random-encoder](https://github.com/bfred-it/random-encoder) - Lightweight way to generate multiple, random, reversible "hashes" or encoding
+* [pet-names](https://github.com/bfred-it/pet-names) - &#128145; Get popular pet names (for girlfriends and boyfriends)
+* [shorten-repo-url](https://github.com/bfred-it/shorten-repo-url) - Shorten GitHub links like GitHub shortens Issues and Commit links.
 
 ## Node-only modules
 
@@ -44,26 +52,21 @@
 * [npm-bundler](https://github.com/bfred-it/npm-bundler) - Opinionated ES6 library bundler based on rollup-babel-lib-bundler. For my own modules, but maybe you can find it useful too.
 * [rollup-config-webext](https://github.com/bfred-it/webext-inject-on-install) - Suggested configuration to bundle files in browser extensions.
 
-## Node and browser modules
-
-* [intrinsic-scale](https://github.com/bfred-it/intrinsic-scale) - Replicate `background-size: cover/contain` for canvas/CSS/Node/… on any type of media.
-* [poor-mans-symbol](https://github.com/bfred-it/poor-mans-symbol) - Poor man's Symbol implementation, not compliant. Uses window.Symbol if present
-* [random-encoder](https://github.com/bfred-it/random-encoder) - Lightweight way to generate multiple, random, reversible "hashes" or encoding
-* [pet-names](https://github.com/bfred-it/pet-names) - &#128145; Get popular pet names (for girlfriends and boyfriends)
-
 ## Modules for browser extensions
 
 * [webext-options-sync](https://github.com/bfred-it/webext-options-sync) - Helps you manage and autosave your extension's options.
 * [webext-dynamic-content-scripts](https://github.com/bfred-it/webext-dynamic-content-scripts) - Automatically inject your `content_scripts` on custom domains.
 * [webext-content-script-ping](https://github.com/bfred-it/webext-content-script-ping) - One-file interface to detect whether your content script have loaded.
 * [webext-inject-on-install](https://github.com/bfred-it/webext-inject-on-install) - Automatically add content scripts to existing tabs when your extension is installed.
+* [webext-domain-permission-toggle](https://github.com/bfred-it/webext-domain-permission-toggle) - Browser-action context menu to request permission for the current tab.
 
 ## Browser extensions
 
 * [GhostText](https://github.com/GhostText/GhostText) - :ghost: Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 * [npmhub](https://github.com/npmhub/npmhub/) - :mag_right: A browser extension for exploring npm dependencies on GitHub repos.
-* [GitHub Clean Feed](https://github.com/bfred-it/github-clean-feed) - Group GitHub news feed by repo.
 * [One Click Extension Manager](https://github.com/HangYang/ext_manager) - Simple Chrome extension to manage your Chrome extensions.
+* [Refined GitHub](https://github.com/sindresorhus/refined-github/) - Simplifies the GitHub interface and adds useful features.
+* [GitHub Clean Feed](https://github.com/bfred-it/github-clean-feed) - Group GitHub news feed by repo.
 * [sticky-pinned-tabs](https://github.com/bfred-it/sticky-pinned-tabs) - Chrome Extension: When in a pinned tab, external links open in a new tab
 * [gstocks](https://github.com/bfred-it/gstocks) - Chrome extension + bookmarklet
 * [browser-player](https://github.com/bfred-it/browser-player) - 🔈 Chrome extension: pause other tabs when you play something
@@ -87,6 +90,6 @@ Unpolished and undocumented, though
 
 ## Personal stuff
 
-* [currency-slider](https://github.com/bfred-it/currency-slider) - A personal app to quickly convert THB to EUR. Not automatically updated
+* [currency-slider](https://github.com/bfred-it/currency-slider) - A personal app to quickly convert currency. Not automatically updated
 * [MovieList](https://github.com/bfred-it/MovieList) - Built with Meteor: A multi-user movie list with comments
 * [hotelteti.com](https://github.com/bfred-it/hotelteti.com) - Jekyll website, wip
