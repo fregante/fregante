@@ -12,7 +12,7 @@ This is mostly automated.
   copy($$('.source').map(repo => {
     const name = repo.querySelector('[itemprop^="name"]');
     const desc = repo.querySelector('[itemprop^="description"]');
-    return `* [${name.innerText}](${name.href})${desc ? ` - ${desc.innerText}` : 'ENTER DESCRIPTION'}`
+    return `* [${name.innerText}](${name.href}) - ${desc ? desc.innerText : 'ENTER DESCRIPTION'}`
   }).join('\n'));
   ```
 
