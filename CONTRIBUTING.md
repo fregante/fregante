@@ -10,10 +10,10 @@ This is mostly automated.
 
   ```js
   copy($$('.source').map(repo => {
-    const name = repo.querySelector('.repo-list-name');
-    const desc = repo.querySelector('.repo-list-description');
-    return `* [${name.innerText}](${name.firstElementChild.href}) - ${desc && desc.innerText}`
-  }).join('\n'))
+    const name = repo.querySelector('[itemprop^="name"]');
+    const desc = repo.querySelector('[itemprop^="description"]');
+    return `* [${name.innerText}](${name.href})${desc ? ` - ${desc.innerText}` : 'ENTER DESCRIPTION'}`
+  }).join('\n'));
   ```
 
 4. Create README.md file with the contents of your clipboard
