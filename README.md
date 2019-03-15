@@ -18,6 +18,7 @@
 ### DOM modules
 
 * [select-dom](https://github.com/bfred-it/select-dom) - Slim alternative to document.querySelector/All
+* [delegate-it](https://github.com/bfred-it/delegate-it) - DOM event delegation, in <1KB
 * [on-off](https://github.com/bfred-it/on-off) - Add/remove DOM events
 * [one-event](https://github.com/bfred-it/one-event) - Micro module to add an event listener to be executed only once
 * [get-scroll](https://github.com/bfred-it/get-scroll) - Micro module to get the scroll position (top or left) in the browser
@@ -25,6 +26,8 @@
 * [filter-altered-clicks](https://github.com/bfred-it/filter-altered-clicks) - Filter alt-click, ctrl-click, shift-click, middle click, ...
 * [visibility-change-ponyfill](https://github.com/bfred-it/visibility-change-ponyfill) - A more reliable visibilitychange event that works in more mobile WebViews
 * [gsap-then](https://github.com/bfred-it/gsap-then) - Make every GSAP Tween a promise. tl.then(doSomething)
+* [indent-textarea](https://github.com/bfred-it/indent-textarea) - Add editor-like tab-to-indent functionality to `<textarea>`, in a few bytes
+* [fit-textarea](https://github.com/bfred-it/fit-textarea) - Automatically expand a `<textarea>` to fit its content, in a few bytes
 
 ### Network modules
 
