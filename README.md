@@ -38,6 +38,7 @@
 
 ### Utility modules
 
+* [many-keys-map](https://github.com/bfred-it/many-keys-map) - A Map subclass with support for multiple keys for one entry
 * [prevent-popstate-scroll](https://github.com/bfred-it/prevent-popstate-scroll) - Prevent the scroll restoration caused by the popstate event or back/forward buttons.
 * [scroll-restoration-polyfill](https://github.com/bfred-it/scroll-restoration-polyfill) - Polyfill for the "History API: Scroll Restoration"
 * [console-class](https://github.com/bfred-it/console-class) - Get yourself a light, togglable, namespaced and colored console.log in the browser
@@ -47,6 +48,8 @@
 * [random-encoder](https://github.com/bfred-it/random-encoder) - Lightweight way to generate multiple, random, reversible "hashes" or encoding
 * [pet-names](https://github.com/bfred-it/pet-names) - &#128145; Get popular pet names (for girlfriends and boyfriends)
 * [shorten-repo-url](https://github.com/bfred-it/shorten-repo-url) - Shorten GitHub links like GitHub shortens Issues and Commit links.
+* [list-github-dir-content](https://github.com/bfred-it/list-github-dir-content) - List all the files in a GitHub repo’s directory
+* [tiny-version-compare](https://github.com/bfred-it/tiny-version-compare) - Compare two software versions, with any number of points (<1KB)
 
 ## Node-only modules
 
@@ -66,6 +69,7 @@
 ## Browser extensions
 
 * [GhostText](https://github.com/GhostText/GhostText) - :ghost: Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
+* [GitHub Issue Link Status](https://github.com/bfred-it/github-issue-link-status) - Colorize issue and PR links to see their status (open, closed, merged)
 * [npmhub](https://github.com/npmhub/npmhub/) - :mag_right: A browser extension for exploring npm dependencies on GitHub repos.
 * [One Click Extension Manager](https://github.com/HangYang/ext_manager) - Simple Chrome extension to manage your Chrome extensions.
 * [Refined GitHub](https://github.com/sindresorhus/refined-github/) - Simplifies the GitHub interface and adds useful features.
