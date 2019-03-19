@@ -17,6 +17,7 @@
 
 ### DOM modules
 
+* [doma](https://github.com/bfred-it/doma) - Parse an HTML string into `DocumentFragment` or one `Element`, in a few bytes
 * [select-dom](https://github.com/bfred-it/select-dom) - Slim alternative to document.querySelector/All
 * [delegate-it](https://github.com/bfred-it/delegate-it) - DOM event delegation, in <1KB
 * [on-off](https://github.com/bfred-it/on-off) - Add/remove DOM events
