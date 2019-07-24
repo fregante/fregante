@@ -17,4 +17,4 @@ This is mostly automated.
   ```
 
 4. Create README.md file with the contents of your clipboard
-5. Setup this [GitHub bot](https://github.com/bfred-it/index-github-bot) on [zeit/now](https://zeit.co/now) to automatically remind you to add new repos by creating new issues.
+5. Setup this [GitHub bot](https://github.com/fregante/index-github-bot) on [zeit/now](https://zeit.co/now) to automatically remind you to add new repos by creating new issues.
