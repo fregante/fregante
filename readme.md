@@ -2,7 +2,7 @@
 
 ## _Ciao!_
 
-I’ve been maintaining your favorite npm modules and browser extensions for a few years: Over 200 features in [Refined GitHub](https://github.com/sindresorhus/refined-github), [npmhub](https://github.com/npmhub/npmhub), [GhostText](https://github.com/GhostText/GhostText), and about [85 modules](https://github.com/fregante?tab=repositories&type=source) on npm.
+I’ve been maintaining your favorite npm modules and browser extensions for a few years: Over 200 features in [Refined GitHub](https://github.com/sindresorhus/refined-github), [npmhub](https://github.com/npmhub/npmhub), [GhostText](https://github.com/GhostText/GhostText), and about [85 modules](https://github.com/fregante?tab=repositories&type=source) on npm. Also check out [my WebExtension-specific modules](https://github.com/fregante/webext-fun).
 
 Many of them revolve around GitHub and improving its experience for all developers. A lot of the changes introduced by Refined GitHub were successively [adopted by GitHub themselves](https://github.blog/2018-08-28-announcing-paper-cuts/#introducing-project-paper-cuts). You're welcome!
 
